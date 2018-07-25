@@ -1,2 +1,2 @@
 # docker-mydemo
-demo
+基于基础镜像fhq9543/docker-py36_alpline_mysqlclient写的Django的demo
